@@ -1,1 +1,1 @@
-# Cube-Histories
+# Cube-History
