@@ -1,3 +1,3 @@
-# cube-cobra-history
+# cubecobra-cube-histories
 
 
